@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li.slick-active div {
+  background-color: #6d7479;
+}
